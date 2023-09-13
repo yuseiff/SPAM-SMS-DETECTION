@@ -10,3 +10,6 @@ The target variable y_train is converted to integer type for compatibility with 
 After training the model, its accuracy on the training data is evaluated using the accuracy_score() function from scikit-learn's metrics module. The accuracy score provides an indication of how well the model is performing in classifying the SMS messages as spam or ham.
 Finally, the accuracy score on the training data is printed, which gives an understanding of the model's performance in the context of the training dataset.
 Overall, this project demonstrates the process of building a logistic regression model for spam SMS detection, from data loading and preprocessing to training and evaluation.
+
+
+Follow me on linkedin: https://www.linkedin.com/in/youssef-husseiny-989a17257/
